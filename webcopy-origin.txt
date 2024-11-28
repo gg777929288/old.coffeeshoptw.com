@@ -1,0 +1,356 @@
+Uri: https://apis.google.com/js/client.js?onload=gapiLoaded
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\js\client.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Crafty Girls:i%2Cbi%2C700%2C400&display=swap
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300%2C300italic%2C400%2C400italic%2C700%2C700italic&display=swap
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf_.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\craftygirls\v16\va9B4kXI39VaDdlPJo8N_NveRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v62/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\googlesans\v62\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v62/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\googlesans\v62\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJllpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/close/default/24px.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\i\short-term\release\googlesymbols\close\default\24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://home.coffeeshoptw.com/
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\index.htm
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/其他網頁/阿文的私心連結/一下專題報告程式碼
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\其他網頁\阿文的私心連結\一下專題報告程式碼.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Coming-soon
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Coming-soon.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Coming-soon/vote
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Coming-soon\vote.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games/intro
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games\intro.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games/intro/Description
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games\intro\Description.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games/intro/Schedules
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games\intro\Schedules.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games/intro/Teams
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games\intro\Teams.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games/intro/Thinking
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games\intro\Thinking.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/first-R6--games/Record
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\first-R6--games\Record.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Server-Reports
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Server-Reports.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Server-Reports/2021
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Server-Reports\2021.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Server-Reports/2022-Jan
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Server-Reports\2022-Jan.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Server-Reports/2022_01_01-2022_03_03
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Server-Reports\2022_01_01-2022_03_03.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/活動及內容/相關紀錄/Server-Reports/2024-6-Server-Insight
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\活動及內容\相關紀錄\Server-Reports\2024-6-Server-Insight.html
+Content Type: text/html
+
+Uri: https://home.coffeeshoptw.com/HomePage
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\HomePage.html
+Content Type: text/html
+
+Uri: https://lh3.googleusercontent.com/5zx9cY2R05aAU8VQYUYKci_VECHBp1x2DTBn7OrYsGLHb7akkjCBb7OaXxfz6Vj3dm3C9pwsAAJLO8Vj9Uh8HXoOIdTuScKa41UJt6_y1bKYw_JUY7LvVQHN-sRvlx5JrA=w1280
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\5zx9cY2R05aAU8VQYUYKci_VECHBp1x2DTBn7OrYsGLHb7akkjCBb7OaXxfz6Vj3dm3C9pwsAAJLO8Vj9Uh8HXoOIdTuScKa41UJt6_y1bKYw_JUY7LvVQHN-sRvlx5JrA=w1280
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/d/19ZeCZfcxsgqVOh5y3zbHkS8D_WsrX9LzTivCWr_c1-o=w1469-h565-p-k-nu
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\d\19ZeCZfcxsgqVOh5y3zbHkS8D_WsrX9LzTivCWr_c1-o=w1469-h565-p-k-nu
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/d/1jR-DKbQ6f_1b3iX7VQ6jBd0dGLnYBJM5dWaqehMCJe4=w1469-h565-p-k-nu
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\d\1jR-DKbQ6f_1b3iX7VQ6jBd0dGLnYBJM5dWaqehMCJe4=w1469-h565-p-k-nu
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/d/1z_goAFJTn4gNYvfp8yTWdgFd52SeMfvXEeqG-rKVQ6M=w1469-h565-p-k-nu
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\d\1z_goAFJTn4gNYvfp8yTWdgFd52SeMfvXEeqG-rKVQ6M=w1469-h565-p-k-nu
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/I5UrQfjH4_jOYZ26-xcAMdq1JWZESdnEswWVJUWyyxpjCX4FTAvhGzlnum_nRNnHCf9J-n_msYGkO6SeBQ1b0bc=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\I5UrQfjH4_jOYZ26-xcAMdq1JWZESdnEswWVJUWyyxpjCX4FTAvhGzlnum_nRNnHCf9J-n_msYGkO6SeBQ1b0bc=w16383
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/jiuEIYlG3ylOBBRgk68Yu9Ya34GFUlYdiIBI4jV5nhlLrUSGN65vLWOz9iJ0wKZLQQY_M-doqW66f8DcqQKvTTk=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\jiuEIYlG3ylOBBRgk68Yu9Ya34GFUlYdiIBI4jV5nhlLrUSGN65vLWOz9iJ0wKZLQQY_M-doqW66f8DcqQKvTTk=w16383
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/qWGP6Woj-gZ2ZO3ajKpYkxkoO0NUaln0YxzHoZpdT_a_2WURrcF3G-piMw__j8SWo9LyugtyH3PCz9MXeiC15LI=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\qWGP6Woj-gZ2ZO3ajKpYkxkoO0NUaln0YxzHoZpdT_a_2WURrcF3G-piMw__j8SWo9LyugtyH3PCz9MXeiC15LI=w16383
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/rBPrBZ4me5WPYq3Wt_lJsTd3T4ia0N0qLXwZqvYRFyl-g1rMV9tv_M86DwS3WlYFYXPhrNlMBOQTbn1-dAHJEyk=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\rBPrBZ4me5WPYq3Wt_lJsTd3T4ia0N0qLXwZqvYRFyl-g1rMV9tv_M86DwS3WlYFYXPhrNlMBOQTbn1-dAHJEyk=w16383
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/RcN5fBjCjy5ix6yKIChPP0rtNlYs1w-TgJzxeY6WSes6FeDWJT2HeyEzOalA8aM2Q_NLpCe_e6hOOa3ZcID65w=w1280
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\RcN5fBjCjy5ix6yKIChPP0rtNlYs1w-TgJzxeY6WSes6FeDWJT2HeyEzOalA8aM2Q_NLpCe_e6hOOa3ZcID65w=w1280
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/sj18os3sHa2nZWu0_3BTvW6NBKTMwgJYiJA8IXy4GIHbRSTdyF47tAU-sqSL4Cdz_UkShrc_sxNmjloZA-xB418FAU5NVEJmLXk2n6g_NDHjZPs
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\sj18os3sHa2nZWu0_3BTvW6NBKTMwgJYiJA8IXy4GIHbRSTdyF47tAU-sqSL4Cdz_UkShrc_sxNmjloZA-xB418FAU5NVEJmLXk2n6g_NDHjZPs
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/J2U4ADxRE85tHZUo0ybRDgdTZPrsUhLFH8wEEO54An2pqpG9u1GoqlJD3bK6yzea_QXOal6ET6dogSFD3U92ntY=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\J2U4ADxRE85tHZUo0ybRDgdTZPrsUhLFH8wEEO54An2pqpG9u1GoqlJD3bK6yzea_QXOal6ET6dogSFD3U92ntY=w16383
+Content Type: image/jpeg
+
+Uri: https://lh4.googleusercontent.com/p-N5gOQl9wn67LhTevsb849vGL6YWwvsVR17yJHp7_K_jE8VqlWzJEkYOMseU17MDJWur6HcGcUpFvk5FBUua-Pq20uogIyGqm19iloYxBDsak6OAblKu2yf3-L9p0z3Tw=w1280
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\p-N5gOQl9wn67LhTevsb849vGL6YWwvsVR17yJHp7_K_jE8VqlWzJEkYOMseU17MDJWur6HcGcUpFvk5FBUua-Pq20uogIyGqm19iloYxBDsak6OAblKu2yf3-L9p0z3Tw=w1280
+Content Type: image/png
+
+Uri: https://lh4.googleusercontent.com/zvbjAy7UXKS-YokjXdsxXiamiifhVM86vxxXN0hbCVT_4wMpMTVoF8MoOATQhMSXnjzOBBskwx7CjkCS7WRvEomDd0gqBPdJP2jMsX03Ttc
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\zvbjAy7UXKS-YokjXdsxXiamiifhVM86vxxXN0hbCVT_4wMpMTVoF8MoOATQhMSXnjzOBBskwx7CjkCS7WRvEomDd0gqBPdJP2jMsX03Ttc
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/04WiBkqJ59cIkjkz6uRard47nIZkjiZio5RBDWcsh06EH80lrhfpXhaKYgpdQXg2xNDF1DO4QjLtByOc-DGqh0Gs7XjU7GCgy8gQKl80t-Ko7V4
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\04WiBkqJ59cIkjkz6uRard47nIZkjiZio5RBDWcsh06EH80lrhfpXhaKYgpdQXg2xNDF1DO4QjLtByOc-DGqh0Gs7XjU7GCgy8gQKl80t-Ko7V4
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/0FX-lilhHHRA_974xU4TxnG1Ya0WtOyo0RXo4lIuRt-KaAacwDoYEoSY0oKZV0JCKboUH8VOl414d1Z709HGdv4=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\0FX-lilhHHRA_974xU4TxnG1Ya0WtOyo0RXo4lIuRt-KaAacwDoYEoSY0oKZV0JCKboUH8VOl414d1Z709HGdv4=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/ADIFNmI7b5r61GbvoC4EsN8b11dXX5L3OSe2NugbVCa-EjymJuDeW_S2_4kWv3hyMbk5BxsSs6xljw8SOIICTA=w1280
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ADIFNmI7b5r61GbvoC4EsN8b11dXX5L3OSe2NugbVCa-EjymJuDeW_S2_4kWv3hyMbk5BxsSs6xljw8SOIICTA=w1280
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/CTHlJp-8ySi_b9hnf9794YzgsiRQ8TsCSukicGjFgv41ItAJS26mMTzE4vOJCzuWFCAFKBadqoVCIwKIWzHyqgU=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\CTHlJp-8ySi_b9hnf9794YzgsiRQ8TsCSukicGjFgv41ItAJS26mMTzE4vOJCzuWFCAFKBadqoVCIwKIWzHyqgU=w16383
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/GzT8ckZAZQOpPUWs4oPG3n84OUg0RjI8xiFl_IaAkzQjbb53WDhxSEMeFYdq9Lv2Z_fKFSv0O5Y2Zdi2SxER9h4=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\GzT8ckZAZQOpPUWs4oPG3n84OUg0RjI8xiFl_IaAkzQjbb53WDhxSEMeFYdq9Lv2Z_fKFSv0O5Y2Zdi2SxER9h4=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/ndFKn02Lim9hfmFg1x1jkohxJ_dz8I4rLClIljMBC1UGiO2YLMzwWnFUWfvL7BCQGcGxzT4_dJxMO8XJ8WpRCyI=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ndFKn02Lim9hfmFg1x1jkohxJ_dz8I4rLClIljMBC1UGiO2YLMzwWnFUWfvL7BCQGcGxzT4_dJxMO8XJ8WpRCyI=w16383
+Content Type: image/jpeg
+
+Uri: https://lh5.googleusercontent.com/proxy/G3_dBkadb5mTWKBwZIP2FuL0BKb_Sa7i7-mD34eiZoM2HpfaGdZnhVngzsPbpa5BdpXSN48DdDpd5F7o-xmRuO4zfeQCixn1fUMdMtJ9XsOr2OC4iDvDHeZSm_New4idwraz7u3bro00Lp5PH14jMzrL71bvz85TrYfUSmnIIPXeMnNiyqErIiRMHxu61jS7psaHqA
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\proxy\G3_dBkadb5mTWKBwZIP2FuL0BKb_Sa7i7-mD34eiZoM2HpfaGdZnhVngzsPbpa5BdpXSN48DdDpd5F7o-xmRuO4zfeQCixn1fUMdMtJ9XsOr2OC4iDvDHeZSm_New4idwraz7u3bro00Lp5PH14jMzrL71bvz85TrYfUSmnIIPXeMnNiyqErIiRMHxu61jS7psaH
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/Uc7aAe7vJDplm6TH0GF_c4lz8nzI1CAkWZgIADq1sCPrUYoNyYS_YECGm6Hb8KMwj-mLcZ0yjPm76l-UUYEax1E=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\Uc7aAe7vJDplm6TH0GF_c4lz8nzI1CAkWZgIADq1sCPrUYoNyYS_YECGm6Hb8KMwj-mLcZ0yjPm76l-UUYEax1E=w16383
+Content Type: image/png
+
+Uri: https://lh5.googleusercontent.com/UIkpOnyRMLocApj1uBDeEKGpY1eB4b_tTkTMKnUzO8NaPysrs7J936GmFWuVD8Pq7TTT0ykBT77l268qpJTRjw=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\UIkpOnyRMLocApj1uBDeEKGpY1eB4b_tTkTMKnUzO8NaPysrs7J936GmFWuVD8Pq7TTT0ykBT77l268qpJTRjw=w16383
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/nPwsDsEg1asg1vhMnlVTQiljlBffR-Jhwo1ffo1IAq1qh41MSEiYHhgd5WiS1geWelbqQaJL18CgjwzuBdVBxu4=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\nPwsDsEg1asg1vhMnlVTQiljlBffR-Jhwo1ffo1IAq1qh41MSEiYHhgd5WiS1geWelbqQaJL18CgjwzuBdVBxu4=w16383
+Content Type: image/jpeg
+
+Uri: https://lh6.googleusercontent.com/sBaffZVh7imaRz-zyncIEQfAdnqUq1J5aUO7Y60gEURav07P_Z-JbykLFRc7Pf-WoyvJgPqy4lUT61n7X1ht_ME=w16383
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\sBaffZVh7imaRz-zyncIEQfAdnqUq1J5aUO7Y60gEURav07P_Z-JbykLFRc7Pf-WoyvJgPqy4lUT61n7X1ht_ME=w16383
+Content Type: image/jpeg
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\atari\images\cloudsearch\icons_ldpi-f79964f7f886f44608d6398f29bddba7.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/cloudsearch/internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\atari\images\cloudsearch\internal_ldpi-8728a3a67f38069303f7d4ca99a59394.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/simple-header-blended-small.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\atari\images\simple-header-blended-small.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/atari/images/sociallinks/facebook_white_28dp.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\atari\images\sociallinks\facebook_white_28dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite766.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\material_common_sprite766.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite766_blue.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\material_common_sprite766_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite766_gm3_grey_medium.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\material_common_sprite766_gm3_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite766_grey_dark.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\material_common_sprite766_grey_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite766_grey_medium.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\material_common_sprite766_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/shortcut_sprite1.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\shortcut_sprite1.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-icons4.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\v-icons4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_dark.gif
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\v-spinner_dark.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/v-spinner_gray.gif
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\v-spinner_gray.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v-sprite19.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\viewer\v-sprite19.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/viewer/v3/v-sprite60.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\common\viewer\v3\v-sprite60.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/spinner-2.gif
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\documents\share\images\spinner-2.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/sprite-24.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\documents\share\images\sprite-24.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner.svg
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\docs\picker\images\loading_spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/s2/tt/images/play-overlay.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\s2\tt\images\play-overlay.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/loading_bg_f5.gif
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ui\v1\activityindicator\loading_bg_f5.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/ui/v1/dialog/close-x.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ui\v1\dialog\close-x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ui\v1\disclosure\small-grey-disclosure-arrow-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\ui\v1\menu\checkmark.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-1B2LR8XHZC
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/images/icons/material/product/1x/sheets_32dp.png
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\images\icons\material\product\1x\sheets_32dp.png
+Content Type: image/png
+
+Uri: https://www.gstatic.com/_/atari/_/js/k=atari.vw.zh_TW.FxGh9JCbtsQ.O/am=MBiA/d=1/rs=AGEqA5m7wMmXVV5j4F3V1jGw1nsr5fEaaQ/m=view
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\_\atari\_\js\k=atari.vw.zh_TW.FxGh9JCbtsQ.O\am=MBiA\d=1\rs=AGEqA5m7wMmXVV5j4F3V1jGw1nsr5fEaaQ\m=view
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.7R57rYYVGiA.L.X.O/am=MBiA/d=1/rs=AGEqA5nH97dOwqY0iGblvGlWiaR59owncA
+File Name: C:\Users\fdytu\Downloads\wb\舊版咖啡廳\home.coffeeshoptw.com\_\atari\_\ss\k=atari.vw.7R57rYYVGiA.L.X.O\am=MBiA\d=1\rs=AGEqA5nH97dOwqY0iGblvGlWiaR59owncA
+Content Type: text/css
+

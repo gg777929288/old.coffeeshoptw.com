@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Crafty Girls';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf_.ttf) format('truetype');
+}
